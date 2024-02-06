@@ -31,7 +31,7 @@
 		"name": "Kiwi",
 		"type": "Citrus",
 		"color": "Green",
-		"healthBenefit": "Good source of fiber",
+		"healthBenefit": "Good source of fiber and Good for health",
 		"imageURL": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2010/10/15/1287157586195/Kiwi-fruit-006.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c6cfa6fbcb85618d75cb633ef946582b",
 		"price": 220,
 		"currency": "INR",
